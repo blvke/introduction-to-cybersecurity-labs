@@ -9,20 +9,21 @@ Each lab explores fundamental cybersecurity concepts through hands-on attacks, c
 
 ## 📂 Repository Structure
 introduction-to-cybersecurity-labs/
-│
-├── Lab1_SecretKeyCryptography/
-│ ├── docs/ # Lab sheet + provided resources
-│ ├── Solutions/ # Implementations, keys, writeups
-│
-├── Lab2_ManInTheMiddle/
-│ ├── docs/ # Lab sheet + raw_packet.c
-│ └── Solutions/ # Spoofing scripts, payloads, writeup
-│
-├── Lab3_BufferOverflow/
-│ ├── docs/ # Lab sheet + resources
-│ └── Solutions/ # Exploits, payloads, writeup
-│
-└── README.md # This file
+|
++-- Lab1_SecretKeyCryptography/
+|   +-- docs/          # Lab sheet + provided resources
+|   +-- Solutions/     # Implementations, keys, writeups
+|
++-- Lab2_ManInTheMiddle/
+|   +-- docs/          # Lab sheet + raw_packet.c
+|   +-- Solutions/     # Spoofing scripts, payloads, writeup
+|
++-- Lab3_BufferOverflow/
+|   +-- docs/          # Lab sheet + resources
+|   +-- Solutions/     # Exploits, payloads, writeup
+|
++-- README.md          # This file
+
 
 markdown
 Copy code
