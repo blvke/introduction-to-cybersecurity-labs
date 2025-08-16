@@ -24,10 +24,6 @@ introduction-to-cybersecurity-labs/
 |
 +-- README.md          # This file
 
-
-markdown
-Copy code
-
 ---
 
 ## 🧪 Labs Overview
